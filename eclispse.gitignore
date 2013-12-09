@@ -1,2 +1,6 @@
 # Compiled
 *.elc
+*.classpath
+*.classpath
+*.project
+*.settings
