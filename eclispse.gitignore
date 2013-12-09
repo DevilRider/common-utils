@@ -1,6 +1,6 @@
-# Compiled
-*.elc
+target/
 *.classpath
 *.classpath
 *.project
 *.settings
+# Compiled\*.elc
