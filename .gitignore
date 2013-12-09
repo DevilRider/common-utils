@@ -1,0 +1,12 @@
+target/
+*.classpath
+*.project
+.settings/
+# Compiled
+*.elc
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
